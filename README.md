@@ -24,9 +24,7 @@ This Analysis uses Python 3.7 with the following packages:
 
 ``` numpy ```
 
-``` python 3.7 ```
 
-``` jupyter lab ```
 
 
 ---
