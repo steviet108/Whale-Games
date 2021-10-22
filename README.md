@@ -39,7 +39,7 @@ This analysis was done with Pandas on Jupyter Lab. To interact with the function
 ---
 ## Usage
 
-```The file of interest its labeled risk_return_analysis.ipynb ```
+The file of interest its labeled  ``` risk_return_analysis.ipynb ```
 
 This analysis is meant to read and study to learn the performance of the four portfolios and how they performed against the market from 2014 to 2020, It is possible to replicate these functions for different data, but that would require borrowing the functions, or cloning the repository to your local computer and then including a new csv file that had the data the user wanted to analyse.
 
